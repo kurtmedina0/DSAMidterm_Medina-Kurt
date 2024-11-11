@@ -25,3 +25,7 @@ Once Node.js and npm are installed, install the **create-react-app** tool:
 
 ```bash
 npm install -g create-react-app
+
+## Creating a New React Project 
+
+To create a new React application, use create-react-app. This tool sets up a new React project with a basic structure and configuration.
