@@ -22,11 +22,13 @@ React.js is an open-source JavaScript library developed by Facebook for building
 To get started with React, you need to have **Node.js** and **npm** (Node Package Manager) installed on your computer. You can download Node.js, which includes npm, from [https://nodejs.org/](https://nodejs.org/).
 
 Once Node.js and npm are installed, install the **create-react-app** tool:
-
+```bash
 npm install -g create-react-app
+```
 
 ## Creating a New React Project 
 
 To create a new React application, use create-react-app. This tool sets up a new React project with a basic structure and configuration.
-
+```bash
 npx create-react-app my-app
+```
