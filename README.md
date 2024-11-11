@@ -23,22 +23,10 @@ To get started with React, you need to have **Node.js** and **npm** (Node Packag
 
 Once Node.js and npm are installed, install the **create-react-app** tool:
 
-```bash
 npm install -g create-react-app
 
+## Creating a New React Project 
+
+To create a new React application, use create-react-app. This tool sets up a new React project with a basic structure and configuration.
+
 npx create-react-app my-app
-
-my-app/
-├── public/
-│   ├── index.html
-├── src/
-│   ├── App.css
-│   ├── App.js
-│   ├── App.test.js
-│   ├── index.css
-│   ├── index.js
-│   └── reportWebVitals.js
-├── .gitignore
-├── package.json
-└── README.md
-
