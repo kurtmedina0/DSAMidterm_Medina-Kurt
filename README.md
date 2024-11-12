@@ -3,13 +3,14 @@
 #### Welcome to the React.js Guide! This README file will walk you through the basics of getting started with React, a popular JavaScript library for building user interfaces.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Creating a New React Project](#creating-a-new-react-project)
-- [Project Structure](#project-structure)
-- [Basic Usage](#basic-usage)
-- [Running the Application](#running-the-application)
-- [Additional Resources](#additional-resources)
+
+| **Section**                       | **Section**                    |
+|-----------------------------------|--------------------------------|
+| [Introduction](#introduction)     | [Basic Usage](#basic-usage)    |
+| [Installation](#installation)     | - [Creating Components](#creating-components) |
+| [`Creating a New React Project`](#creating-a-new-react-project) | - [JSX](#jsx) |
+| [Project Structure](#project-structure) | - [Adding CSS Styling](#adding-css-styling) |
+| [Running the Application](#running-the-application) | [Additional Resources](#additional-resources) |
 
 ---
 
