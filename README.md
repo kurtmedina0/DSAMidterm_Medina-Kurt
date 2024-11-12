@@ -61,3 +61,53 @@ my-app/
 - src/App.js: The main App component.
 - src/index.js: The entry point for the React app.
 
+## Basis Usage
+React apps are built using components. Components are JavaScript functions or classes that return JSX, which looks like HTML. For example, create a Hello.js file in the src folder:
+
+```bash
+import React from 'react';
+
+function Hello() {
+  return <h1>Hello, World!</h1>;
+}
+
+export default Hello;
+```
+You can then use this component in App.js by importing and including it:
+
+```bash
+import React from 'react';
+import Hello from './Hello';
+
+function App() {
+  return (
+    <div className="App">
+      <Hello />
+    </div>
+  );
+}
+
+export default App;
+```
+## Running the Application
+
+To start the development server, use the following command:
+```bash
+npm start
+```
+This command opens the app in your default browser at http://localhost:3000.
+
+To build the project for production, run:
+```bash
+npm run build
+```
+This command creates an optimized build of your app in the build folder, which you can deploy.
+
+## Additional Resources
+-  [https://react.dev/](Official React Documentation)
+- React Tutorial for Beginners
+- JavaScript ES6 for React
+
+
+
+
