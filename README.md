@@ -61,9 +61,7 @@ my-app/
 - src/App.js: The main App component.
 - src/index.js: The entry point for the React app.
 
-## Basic
-
- Usage
+## Basic Usage
 React apps are built using components. Components are JavaScript functions or classes that return JSX, which looks like HTML. For example, create a Hello.js file in the src folder:
 
 ```bash
