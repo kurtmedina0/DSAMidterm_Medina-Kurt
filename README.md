@@ -7,10 +7,9 @@
 | **Section**                       | **Section**                    |
 |-----------------------------------|--------------------------------|
 | [Introduction](#introduction)     | [Basic Usage](#basic-usage)    |
-| [Installation](#installation)     | - [Creating Components](#creating-components) |
-| [`Creating a New React Project`](#creating-a-new-react-project) | - [JSX](#jsx) |
-| [Project Structure](#project-structure) | - [Adding CSS Styling](#adding-css-styling) |
-| [Running the Application](#running-the-application) | [Additional Resources](#additional-resources) |
+| [Installation](#installation)     | [Running the Application](#running-the-application) |
+| [`Creating a New React Project`](#creating-a-new-react-project) | [Additional Resources](#additional-resources) |
+| [Project Structure](#project-structure) |                                |
 
 ---
 
