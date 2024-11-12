@@ -60,3 +60,4 @@ my-app/
 - public/index.html: Main HTML file.
 - src/App.js: The main App component.
 - src/index.js: The entry point for the React app.
+
