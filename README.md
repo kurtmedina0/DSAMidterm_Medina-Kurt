@@ -105,8 +105,8 @@ This command creates an optimized build of your app in the build folder, which y
 
 ## Additional Resources
 -  [Official React Documentation](https://react.dev/)
-- React Tutorial for Beginners
-- JavaScript ES6 for React
+- [React Tutorial for Beginners](https://www.w3schools.com/REACT/DEFAULT.ASP)
+- [JavaScript ES6 for React](https://www.freecodecamp.org/news/how-to-use-es6-javascript-features-in-react/)
 
 
 
