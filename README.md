@@ -104,7 +104,7 @@ npm run build
 This command creates an optimized build of your app in the build folder, which you can deploy.
 
 ## Additional Resources
--  [https://react.dev/](Official React Documentation)
+-  [Official React Documentation](https://react.dev/)
 - React Tutorial for Beginners
 - JavaScript ES6 for React
 
