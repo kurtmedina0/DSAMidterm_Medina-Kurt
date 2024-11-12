@@ -22,6 +22,7 @@ React.js is an open-source JavaScript library developed by Facebook for building
 To get started with React, you need to have **Node.js** and **npm** (Node Package Manager) installed on your computer. You can download Node.js, which includes npm, from [https://nodejs.org/](https://nodejs.org/).
 
 Once Node.js and npm are installed, install the **create-react-app** tool:
+
 ```bash
 npm install -g create-react-app
 ```
@@ -29,6 +30,33 @@ npm install -g create-react-app
 ## Creating a New React Project 
 
 To create a new React application, use create-react-app. This tool sets up a new React project with a basic structure and configuration.
+
 ```bash
 npx create-react-app my-app
 ```
+Replace "my-app" with the name of your project.
+
+After running this command, a new directory with the specified project name will be created. Inside it, you’ll find the files and folders necessary to start building a React application.
+
+## Project Structure 
+
+A basic React project structure will look like this:
+
+```bash
+my-app/
+├── public/
+│   ├── index.html
+├── src/
+│   ├── App.css
+│   ├── App.js
+│   ├── App.test.js
+│   ├── index.css
+│   ├── index.js
+│   └── reportWebVitals.js
+├── .gitignore
+├── package.json
+└── README.md
+```
+- public/index.html: Main HTML file.
+- src/App.js: The main App component.
+- src/index.js: The entry point for the React app.
